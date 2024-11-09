@@ -1,0 +1,68 @@
+{
+    "Basic Liquidity Ratio": {
+        "description": "Number of months an individual can sustain himself if all existing source of income are lost temporarily. This ratio allows a financial planner to address one of most fundamental issues in financial planning. Recommended ratio should be between 3.0 to 6.0.",
+        "operand1": "Cash & Cash Equivalents",
+        "operand2": "Monthly Expenses",
+        "interpretation": {
+            "green": "3.0 ≤ 6.0 - Acceptable range.",
+            "yellow": "> 6.0 - May need to redeploy idle cash for greater efficiency.",
+            "red": "0 < 3.0 - Need to build up on cash reserves."
+        }
+    },
+    "Solvency Ratio": {
+        "description": "The percentage of decline in asset value before an individual becomes technically insolvent. No hard and fast rule as to what is acceptable ratio. A 35% result is generally acceptable.",
+        "operand1": "Total Net Worth",
+        "operand2": "Total Assets",
+        "interpretation": {
+            "green": "> 35% - Acceptable range. As one near retirement, the ratio should move towards a higher percentage, ideally beyond the 35% mark.",
+            "yellow": "0 < 35% - Lower range means a review of gearing is necessary to, as much as possible, minimise the risk exposures."
+        }
+    },
+    "Debt To Asset Ratio": {
+        "description": "An individual's solvency or ability to pay debts. Forumla compares total liabilities with total assets. Generally a ratio of 50% or less is considered safe.",
+        "operand1": "Total Debt",
+        "operand2": "Total Assets",
+        "interpretation": {
+            "green": "0 < 50% - Acceptable range. The nearer one is to retirement the lower the percentage should be.",
+            "yellow": "at 50% - Generally acceptable but one's stage in life must be considered.",
+            "red": "> 50% - Generally considered to be excessive and consequently risky in a declining market. Technical insolvency can set in a depressed market. Attention should be given to address this issue."
+        }
+    },
+    "Debt Service Ratio": {
+        "description": "Whether an individual can maintain debt obligations comfortably. A debt service ratio of 35% and below is generally an acceptable level of debt management.",
+        "operand1": "Total Monthly Loan Repayments",
+        "operand2": "Monthly Take Home Pay",
+        "interpretation": {
+            "green": "0 ≤ 35% - Acceptable range. Keeping the ratio below 35% should always be the main focus.",
+            "yellow": "> 35% - Debt management should be the immediate priority. An excessive ratio may affect the viablitiy of other financial goals."
+        }
+    },
+    "Liquid Assets to Net Worth Ratio": {
+        "description": "Amount of a person's net worth that is in cash or cash equivalents. A minimum ratio of 15% is considered adequate.",
+        "operand1": "Cash & Cash Equivalents",
+        "operand2": "Net Worth",
+        "interpretation": {            
+            "green": "15% ≤ 20% -  Acceptable range.",
+            "yellow": "> 20% - May need to redeploy idle cash for greater efficiency.",
+            "red": "0 < 15% - Need to build up on cash so as to be able to take advantage of investment climate when the opportunity arises."
+        }
+    },
+    "Net Investment Asset to Net Worth Ratio": {
+        "description": "How well an individual is advancing towards capital accumulation goals. A ratio of 50% and higher should be achieved as an individual appraches retirement.",
+        "operand1": "Total Invested Assets",
+        "operand2": "Net Worth",
+        "interpretation": {
+            "green": "≥ 50% - General rule of thumb is that a ratio of 50% is acceptable as one approaches retirement.",
+            "yellow": "0% < 50% -  Lower range, especially when one nears retirement is a cause for concern. The immediate priority in this case is to focus on systematically building invested assets."
+        }
+    },
+    "Savings Ratio": {
+        "description": "The amount of surplus (or deficit) resulting from the client's financial activities for a given period. A savings ratio of 10% is generally an acceptable.",
+        "operand1": "Savings",
+        "operand2": "Gross Income",
+        "interpretation": {
+            "green": "≥ 10% - Normal acceptable range. Cash surpluses accumulated should be systematically invested after taking into consideration the provision for basic liquidity needs.",
+            "yellow": "0 < 10% - The main focus is to increase the quantum of savings to 10% as this would allow a deliberate deployment of funds to reach financial goals."
+        }
+    }
+}

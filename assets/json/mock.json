@@ -1,0 +1,22 @@
+[
+    {
+        "typeID": "0101001",
+        "typePath": "Networth.Asset.Cash & Cash Equivalent",
+        "name": "Cash & Savings Account"
+    },
+    {
+        "typeID": "0101002",
+        "typePath": "Networth.Asset.Cash & Cash Equivalent",
+        "name": "Fixed Deposit"
+    },
+    {
+        "typeID": "0101003",
+        "typePath": "Networth.Asset.Cash & Cash Equivalent",
+        "name": "Cash value of insurance plans"
+    },
+    {
+        "typeID": "0101999",
+        "typePath": "Networth.Asset.Cash & Cash Equivalent",
+        "name": "Others"
+    }
+]

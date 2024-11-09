@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077965254444",
+    "firebase_url": "https://financialratios-f3357.firebaseio.com",
+    "project_id": "financialratios-f3357",
+    "storage_bucket": "financialratios-f3357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077965254444:android:a2907fac51c27d8b58c689",
+        "android_client_info": {
+          "package_name": "com.ownershipfinancial.financialratios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077965254444-hj533pq1p3eejrd2upm257d8d2i1uqc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBKPnoNgjqBBhL1fk7fhcCRsiif9jvlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077965254444-hj533pq1p3eejrd2upm257d8d2i1uqc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
